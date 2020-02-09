@@ -1,0 +1,8 @@
+.btn-dark.custom-btn {
+	background-color: #111390;
+	border-color: #111390;
+}
+
+#loading, #results{
+	display: none;
+}
